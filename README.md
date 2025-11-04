@@ -39,5 +39,5 @@ This project allows you to **add, update, delete, search, and generate PDF bills
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/Library-Management-System-using-Python-Tkinter-and-MySQL.git
+git clone https://github.com/Aayush-hub1/Library-Management-System-using-Python-Tkinter-and-MySQL.git
 cd Library-Management-System-using-Python-Tkinter-and-MySQL
